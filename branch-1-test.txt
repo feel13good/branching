@@ -1,1 +1,1 @@
-adding func B
+adding func B in master branch
